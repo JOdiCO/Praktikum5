@@ -208,13 +208,15 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka akan di
 
 + Cari data
 
-![2019-12-21 21_08_15-Run - Pertemuan4 - Cari](https://user-images.githubusercontent.com/56252129/71395777-0b76ec80-264a-11ea-943b-29ae19bbab13.png)
+![2019-12-24 12_43_33-pertemuan4  J__Mata Kuliah_Bahasa Pemrograman_pertemuan4  -  _Praktikum5 py - Find data](https://user-images.githubusercontent.com/56252129/71396225-d7043000-264b-11ea-9491-8e6c3693ac77.png)
+
 
 + Hapus data & Lihat data
 
-![2019-12-21 21_09_44-Run - Pertemuan4 - Hapus + lihat](https://user-images.githubusercontent.com/56252129/71395815-2e090580-264a-11ea-87a1-193d80128974.png)
+![2019-12-24 12_47_05-Praktikum5_README md at master · JOdiCO_Praktikum5 - Delete](https://user-images.githubusercontent.com/56252129/71396246-ed11f080-264b-11ea-978d-ee0cd4549070.png)
 
 + Keluar
 
-![2019-12-21 21_11_29-Run - Pertemuan4 - Keluar](https://user-images.githubusercontent.com/56252129/71395843-40833f00-264a-11ea-9b0a-e2292501dd02.png)
+![2019-12-24 12_48_33-Run - pertemuan4 - End](https://user-images.githubusercontent.com/56252129/71396266-fdc26680-264b-11ea-85c7-f060f539f540.png)
 
+> End
