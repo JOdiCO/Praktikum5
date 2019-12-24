@@ -201,3 +201,20 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka akan di
 + Tambah data & Lihat data
 
 ![2019-12-21 21_02_19-Run - Pertemuan4 - Tambah + Lihat](https://user-images.githubusercontent.com/56252129/71395578-2137e200-2649-11ea-9c2d-c7a116769e22.png)
+
++ Ubah data & Lihat data
+
+![2019-12-21 21_06_01-Run - Pertemuan4 - Ubah + Lihat](https://user-images.githubusercontent.com/56252129/71395755-e6827980-2649-11ea-9f01-396bb7c04cd0.png)
+
++ Cari data
+
+![2019-12-21 21_08_15-Run - Pertemuan4 - Cari](https://user-images.githubusercontent.com/56252129/71395777-0b76ec80-264a-11ea-943b-29ae19bbab13.png)
+
++ Hapus data & Lihat data
+
+![2019-12-21 21_09_44-Run - Pertemuan4 - Hapus + lihat](https://user-images.githubusercontent.com/56252129/71395815-2e090580-264a-11ea-87a1-193d80128974.png)
+
++ Keluar
+
+![2019-12-21 21_11_29-Run - Pertemuan4 - Keluar](https://user-images.githubusercontent.com/56252129/71395843-40833f00-264a-11ea-9b0a-e2292501dd02.png)
+
